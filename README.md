@@ -1,4 +1,4 @@
-# ridge-nucleotide-predictions
+# Predicting Genomic Sequences
 
 I wrote most of this in the Fall of 2015 at BYU.
 
